@@ -4,12 +4,12 @@ The main objective is to show a collection of projects  in various data science 
 
 ## Projects
 * 🧹 | **Data cleaning & preprocessing**
-- P01_DATA_CLEANING: **BMW Dataset**
+  - P01_DATA_CLEANING: **BMW Dataset**
 
 * 🏆 | **CAPSTONE**
-- CAPSTONE_DSMarket: **DS Market - Retail Company**
+  - CAPSTONE_DSMarket: **DS Market - Retail Company**
 
-(currently under development)
+*(currently under development)*
 
 ## Tools
 * 📓 | Notebooks:     **Google Collab, Jupyter Notebook, VisualStudio Code**
