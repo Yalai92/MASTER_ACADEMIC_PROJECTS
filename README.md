@@ -1,4 +1,4 @@
-# Academic Projects - Master in Data Science#
+# Academic Projects - Master in Data Science
 This repository is dedicated to showcasing the academic projects completed during my Master in Data Science & AI.
 The main objective is to show a collection of projects  in various data science fields, including: data cleaning & preprocessing, data analysis, data visualization, machine learning, clustering, among others.
 
