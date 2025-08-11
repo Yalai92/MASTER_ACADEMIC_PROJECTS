@@ -5,11 +5,14 @@ The main objective is to show a collection of projects  in various data science 
 ## Projects
 * 🧹 | **Data cleaning & preprocessing**
   - P01_DATA_CLEANING: **BMW Dataset**
+ 
+* 🤖 | **Machine Learning**
+  - P01_ML_SUPERVISED_CLASSIFICATION:   **Rain Prediction | ML Classification Model**
+  - P01_ML_SUPERVISED_REGRESSION        **Sale Price House Prediction | ML Regression Model**
 
 * 🏆 | **CAPSTONE**
   - CAPSTONE_DSMarket: **DS Market - Retail Company**
 
-*(currently under development)*
 
 ## Tools
 * 📓 | Notebooks:     **Google Collab, Jupyter Notebook, VisualStudio Code**
