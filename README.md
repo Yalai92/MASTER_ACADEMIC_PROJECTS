@@ -8,7 +8,7 @@ The main objective is to show a collection of projects  in various data science 
  
 * 🤖 | **Machine Learning**
   - P01_ML_SUPERVISED_CLASSIFICATION:   **Rain Prediction | ML Classification Model**
-  - P01_ML_SUPERVISED_REGRESSION        **Sale Price House Prediction | ML Regression Model**
+  - P01_ML_SUPERVISED_REGRESSION:       **Sale Price House Prediction | ML Regression Model**
 
 * 🏆 | **CAPSTONE**
   - CAPSTONE_DSMarket: **DS Market - Retail Company**
